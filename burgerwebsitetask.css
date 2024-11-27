@@ -1,0 +1,352 @@
+
+*{
+    margin: 0; 
+    padding:0px; 
+}
+body{
+    height: 100vh;
+}
+body{
+    background-color: blanchedalmond;
+}
+.heading{
+    height: 10px;
+    width: 100%;
+    border: 2px solid blanchedalmond;
+    box-shadow:  rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: blanchedalmond;
+
+    
+}
+.logo{
+    width:50%;
+
+    text-align: center;
+    margin: 5px;
+}
+.heading div{
+    text-transform: capitalize;
+    color:rgb(138, 20, 20);
+    font-size: 30px;
+    margin:5px;
+    
+
+}
+.heading button{
+    background-color: rgb(188, 20, 20);
+    color:tan;
+    border:none;
+    border-radius: 40px;
+    padding:8px;
+    text-transform: capitalize;
+    margin: 5px;
+    padding-bottom: 10px;
+}
+
+.logo1 i{
+    padding-right: 8px;
+}
+
+.heading button:hover{
+    background-color: brown;
+}
+.quote{
+    font-size: 50px;
+    text-transform: capitalize;
+    color:#502314;
+    padding-left: 200px;
+    font-style: italic;
+}
+.body img{
+    height: 400px;
+    padding-right: 200px;
+    
+}
+
+.order{
+    border:none;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-transform: capitalize;
+    color: #ffff;
+    background-color: tomato;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.order i{
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.order:hover{
+    background-color: brown;
+
+}
+.delivery{
+    border: none;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-transform: capitalize;
+    color: #ffff;
+    background-color: rgb(153, 141, 139);
+    font-style: italic;
+    margin-bottom: 10px;
+
+}
+.delivery i{
+    padding-right: 15px;
+    margin-bottom: 10px;
+
+}
+.delivery:hover{
+    background-color:lightgrey
+}
+.login a{
+    text-decoration: none;
+    color: azure;
+}
+.card{
+    width: 500px;
+    height: 500px;
+  
+    border-radius: 10px;
+    border: none;
+    margin:30px;
+    background-color: beige;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+    background-color: white;
+}
+.card img{
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+.card{
+    padding:15px 20px ;
+
+}
+
+
+.card h1{
+    color: blueviolet;
+    text-transform: capitalize;
+
+}
+.card button{
+
+   width:100px;
+   height:30px; 
+   border:1px solid rgb(8, 81, 109);
+border-radius: 8px;
+    padding:2px;
+    margin-left: 400px;
+    margin-bottom: 500px;
+    background-color: #ffff;
+    
+}
+.card button:hover{
+    color:rgb(43, 7, 150);
+    background-color: rgba(95, 158, 160, 0.715);
+
+}
+h1,p,button{
+    margin:20px;
+}
+
+button{
+    background-color: rgb(182, 193, 182);
+    border-radius: 8rem;
+    padding:10px;
+    border:none;
+    text-transform: capitalize;
+}
+i{
+    padding-right:8px;
+}
+button:hover{
+    background-color: rgb(9, 132, 9);
+    border:2px solid darkgreen;
+}
+.card2{
+    width: 500px;
+    height: 500px;
+  /*  border:2px solid rgb(49, 178, 49); */
+    border-radius: 10px;
+    border: none;
+    margin:30px;
+    background-color: beige;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+    background-color: #ffff;
+}
+.card2 img{
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+.card2{
+    padding:15px 20px ;
+    
+}
+
+
+.card2 h1{
+    color: blueviolet;
+    text-transform: capitalize;
+
+}
+.card2 button{
+    width:150px;
+    height:50px ;
+    border:1px solid green;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 60px;
+    background-color: #ffff;
+}
+.card2 button:hover{
+    color:rgb(43, 7, 150);
+    background-color: rgba(95, 158, 160, 0.715);
+
+}
+h1,p,button{
+    margin:20px;
+}
+
+button{
+    background-color: lightgreen;
+    border-radius: 8rem;
+    padding:10px;
+    border:none;
+    text-transform: capitalize;
+}
+i{
+    padding-right:8px;
+}
+button:hover{
+    background-color: rgb(9, 132, 9);
+    border:2px solid darkgreen;
+}
+.card3{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    border: none;
+    margin:30px;
+    background-color: beige;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+    background-color: #ffff;
+}
+.card3 img{
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+.card3{
+    padding:15px 20px ;
+
+}
+
+
+.card3 h1{
+    color: blueviolet;
+    text-transform: capitalize;
+
+}
+.card3 button{
+
+   width:100px;
+   height:30px; 
+   border:1px solid rgb(8, 81, 109);
+    border-radius: 8px;
+    padding:2px;
+    margin-left: 400px;
+    margin-bottom: 500px;
+    background-color: #ffff;
+    
+}
+.card3 button:hover{
+    color:rgb(43, 7, 150);
+    background-color: rgba(95, 158, 160, 0.715);
+
+}
+h1,p,button{
+    margin:20px;
+}
+
+button{
+    background-color: lightgreen;
+    border-radius: 8rem;
+    padding:10px;
+    border:none;
+    text-transform: capitalize;
+}
+i{
+    padding-right:8px;
+}
+button:hover{
+    background-color: rgb(9, 132, 9);
+    border:2px solid darkgreen;
+}
+.card4 img{
+    height: 400px;
+    width: 400px;
+    
+
+}
+.demo{
+    width: 100%;
+    background-color: rgba(211, 211, 211, 0.409);
+}
+.demo1{
+    padding-left: 200px;
+}
+.para{
+    height: 40px;
+    width: 100%;
+    background-color: #671212;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+
+}
+/*
+#footer{
+    height: 20px;
+    width: 100%;
+    margin-top: 5px;
+    
+}
+
+.home{
+    padding-left: 100px;
+}
+ .navfooter{
+    width: 100px;
+}  
+#footer i{
+    margin-left: 10px;
+    
+ }  
+    */   
+#footer {
+        height: 20px;
+        width: 100%;
+        margin-top: 5px;
+        padding-left:100px;
+        
+}
+#footer img{
+        height: 20px;
+        padding-left: 10px;
+}
+
+ .navfooter{
+        width: 100px;
+}  
+    #footer i{
+        margin-left: 10px;
+        
+     }  
+    

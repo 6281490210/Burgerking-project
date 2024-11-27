@@ -1,0 +1,70 @@
+header{
+    height: 10px;
+    background-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff);) ;
+}
+svg{
+    width: 119px;
+    height: 38px;
+    display: block;
+    margin: 60px auto;
+}
+#form{
+    width: 400px;;
+    margin:60px auto;
+    border-radius: 10px;
+    padding:20px 40px 30px;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.demo{
+    width: 100%;
+    border-radius: 4px;
+    padding:8px;
+    border:1px solid lightgray;
+    
+}
+.demo:hover{
+    border: 1px solid blue;
+    outline: 1px solid rgba(128, 128, 128, 0.201);
+    
+}
+h1{
+    color:black
+}
+.para{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.paragraph{
+    color:rgba(0, 0, 0, 0.55)
+}
+.demo1{
+    width: 100%;
+    border-radius: 3px;
+    padding:15px;
+    border: 1px solid rgba(211, 211, 211, 0.452);
+    margin-top: 20px;
+    color:lightgrey;
+    text-transform: capitalize;
+
+}
+.demo2{
+    
+    text-align: center;
+    padding-right: 10px;
+
+}
+#account a{
+    padding-left: 150px;
+    font-size: 20px;
+
+}
+#account{
+    width: 400px;
+    margin:60px auto;
+    border-radius: 10px;
+    padding:20px 40px 30px;
+    
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
